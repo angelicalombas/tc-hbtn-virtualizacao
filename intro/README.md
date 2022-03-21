@@ -1,9 +1,9 @@
-#Indústria de Tempero Regina Ltda
-##_Implantação de três máquinas virtuais
+# Indústria de Tempero Regina Ltda
+## _Implantação de três máquinas virtuais
 
-###A seguir será demonstrada a sequência de passos para a implantação de 3 máquinas virtuais
+### A seguir será demonstrada a sequência de passos para a implantação de 3 máquinas virtuais
 
-###Habilitar hyper-V no Windows Server 2008
+### Habilitar hyper-V no Windows Server 2008
 Server Manager
 Clicar em Start
 Administrative Toolss
@@ -32,5 +32,10 @@ Clicar em conectar a VM
 Ligar a VM
 instalar o sistema operacional
 
-##Hypervisor do tipo 2
-Essa prática é considerada um hipervisor do Tipo 2, pois este tipo de arquitetura necessita do sistema operacional para que sejam executadas as máquinas virtuais.Sistema operacional é o host.
+## Hypervisor do tipo 2
+Essa prática é considerada um hipervisor do Tipo 2, pois este tipo de arquitetura necessita do sistema operacional para que sejam executadas as máquinas virtuais.
+Sistema operacional é o host.
+
+## Configuração ideal para um servidor suportar três máquinas virtuais dos mesmos tipos apresentados no artigo
+Será necessário melhorar o processamento da máquina e aumentar a memória.
+
