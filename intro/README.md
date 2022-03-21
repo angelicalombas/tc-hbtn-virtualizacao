@@ -33,4 +33,4 @@ Ligar a VM
 instalar o sistema operacional
 
 ##Hypervisor do tipo 2
-Essa prática é considerada um hipervisor do Tipo 2, pois este tipo de arquitetura necessita do sistema operacional para que sejam executadas as máquinas virtuais.
+Essa prática é considerada um hipervisor do Tipo 2, pois este tipo de arquitetura necessita do sistema operacional para que sejam executadas as máquinas virtuais.Sistema operacional é o host.
