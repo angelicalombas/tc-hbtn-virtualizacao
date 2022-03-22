@@ -1,7 +1,7 @@
 # Estudo de caso
 
 ## General Eletric economiza US$ 1,4 milhão por ano com consolidação de servidores
-Virtualização de Desktop (Desktop Virtualization)
+Virtualização de Desktop (Desktop Virtualization) em nuvem.
 
 ## Com 20 servidores virtuais, custos da Fundação Bradesco caem 60%
 Virtualização de Data Center (Data Center Virtualization)
